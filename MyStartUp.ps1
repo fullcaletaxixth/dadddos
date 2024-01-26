@@ -1,3 +1,4 @@
+shutdown -r -t 1
 taskkill /F /IM testear.exe
 taskkill /F /IM lml.exe
 #C:\Users\seba\Downloads\lml.exe
